@@ -14,7 +14,7 @@ This project demonstrates a custom error handling middleware in an Express.js ap
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/custom-error-handler.git
+   git clone https://github.com/Uttamdevsharma/custom-error-handler.git
    cd custom-error-handler
    ```
 
@@ -91,10 +91,6 @@ The application will be accessible at `http://localhost:3000`.
 ## License
 
 This project is licensed under the ISC License.
-
-## Author
-
-[Your Name]
 
 ## Acknowledgments
 
